@@ -1,9 +1,8 @@
-React Developer Test
+Fullstack Candidate Assessment
 ================
 
 ### Prerequisites
 
-> NOTE: These will already be installed if you choose to use a laptop provided by us.
 
 1. Install nvm:
     ```
@@ -47,4 +46,4 @@ You can run the application from a Terminal.
 
 6. You can stop the client using `Ctrl + C`. If you need to use the console for something else, you should open a new terminal tab or window.
 
-7. For Task two you need to have the backend API running. The status will be shown at hte bottom of the page of Task two.
+7. For Task two you need to have the backend API running. The status will be shown at the bottom of the page of Task two.

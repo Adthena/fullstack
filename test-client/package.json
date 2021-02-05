@@ -1,7 +1,7 @@
 {
-  "name": "adthena-fullstack-assessment",
+  "name": "fullstack-candidate-assessment",
   "version": "1.0.0",
-  "description": "Adthena Fullstack Assessment",
+  "description": "Fullstack Candidate Assessment",
   "repository": "https://github.com/Adthena/fullstack",
   "main": "index.html",
   "scripts": {
