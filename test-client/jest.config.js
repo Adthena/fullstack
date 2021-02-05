@@ -2,9 +2,7 @@ const { defaults } = require('jest-config');
 
 const config = {
   verbose: true,
-  setupFiles: ['<rootDir>/enzyme.config.js'],
   setupFilesAfterEnv: ['<rootDir>/src/setupTests.js'],
-  snapshotSerializers: ['enzyme-to-json/serializer'],
   transform: {
     '^.+\\.(ts|js|jsx|es6)?$': 'babel-jest',
   },
