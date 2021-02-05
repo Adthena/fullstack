@@ -1,4 +1,4 @@
-React Developer Test
+Fullstack Candidate Assessment
 ================
 
 ### Prerequisites
